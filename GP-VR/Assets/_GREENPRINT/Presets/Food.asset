@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 89422e9df1869ed489dfcdf40315575f, type: 3}
+  m_Name: Food
+  m_EditorClassIdentifier: 
+  Sector: Food
+  Prefab: {fileID: 2794691658409480375, guid: 0c9b1ef7adbf88d4e8388476e050c24e, type: 3}
+  Population: 0
+  inLabor: 10
+  outLabor: 0
+  inPower: 175
+  outPower: 0
+  inWater: 70
+  outWater: 0
+  inFood: 0
+  outFood: 70

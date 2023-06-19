@@ -1,0 +1,37 @@
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+using System;
+using UnityEngine.Events;
+using UnityEngine.InputSystem;
+using Normal.Realtime;
+using UnityEngine.XR.Interaction.Toolkit;
+
+public class PlaceBlock : MonoBehaviour
+{
+    public BlockPreset block = null;
+    public GameObject[] controllers;
+    public TeleportationArea teleportArea;
+    public XRRayInteractor ray;
+    public Transform tr;
+
+    public void updateblock(BlockPreset _block)
+    {
+        block = _block;
+
+    }
+
+    public void Update()
+    {
+       foreach(GameObject controller in controllers)
+            if (controller.GetComponent<test>().enabled)
+            {
+                tr = teleportArea.customReticle.transform;
+
+                Realtime.Instantiate(block.Prefab.name, tr.position, Quaternion.identity, options: default);
+                GameManager.Instance.onplaceblock(block);
+            }
+    }
+
+    
+}

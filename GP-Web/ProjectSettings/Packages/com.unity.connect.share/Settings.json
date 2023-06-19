@@ -1,0 +1,28 @@
+{
+    "m_Name": "Settings",
+    "m_Path": "ProjectSettings/Packages/com.unity.connect.share/Settings.json",
+    "m_Dictionary": {
+        "m_DictionaryValues": [
+            {
+                "type": "System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+                "key": "firstTime",
+                "value": "{\"m_Value\":false}"
+            },
+            {
+                "type": "System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+                "key": "autoPublish",
+                "value": "{\"m_Value\":true}"
+            },
+            {
+                "type": "System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+                "key": "createDefaultBuildsFolder",
+                "value": "{\"m_Value\":true}"
+            },
+            {
+                "type": "System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+                "key": "buildOutputDirList",
+                "value": "{\"m_Value\":\"C:/Users/viviane/Desktop/WIP/TheGreenPrint-WebGl/Builds/10-03-22;C:/Users/viviane/Desktop/WIP/TheGreenPrint-WebGl/Builds/9-29-22;C:/Users/viviane/Desktop/WIP/TheGreenPrint-WebGl/Builds/9-28-22;C:/Users/viviane/Desktop/WIP/TheGreenPrint-WebGl/Builds/9-27-22;C:/Users/viviane/Desktop/WIP/TheGreenPrint-WebGl/Builds/9-12-22;C:/Users/viviane/Desktop/WIP/TheGreenPrint-WebGl/Builds/9-11-22;C:/Users/viviane/Desktop/WIP/TheGreenPrint-WebGl/Builds;C:/Users/viviane/Desktop/WIP/TheGreenPrint-WebGl/Project-Files/GP_Web/WebGL Builds;;\"}"
+            }
+        ]
+    }
+}
