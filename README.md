@@ -13,6 +13,7 @@ The Greenprint Game
 - As the design goes from macro to micro, The Greenprint provides a detailed blueprint for building the community in the real world
 
 
+![Black+and+Yellow+Six+Step+Process+Concept+Graph+(1)](https://github.com/vivianeko/Create-The-Greenprint/assets/26575048/6deb96bd-6464-4491-8c85-281cf8363bd1)
 
 # Our Story
 
