@@ -3,14 +3,7 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-<<<<<<< HEAD
-  tags:
-  - Manager
-  - block
-  - ground
-=======
   tags: []
->>>>>>> 9c7e8086 (menu added)
   layers:
   - Default
   - TransparentFX
@@ -18,11 +11,7 @@ TagManager:
   - 
   - Water
   - UI
-<<<<<<< HEAD
-  - Play Area
-=======
   - 
->>>>>>> 9c7e8086 (menu added)
   - 
   - 
   - 

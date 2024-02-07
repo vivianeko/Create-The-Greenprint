@@ -4,15 +4,9 @@
 QualitySettings:
   m_ObjectHideFlags: 0
   serializedVersion: 5
-<<<<<<< HEAD
-  m_CurrentQuality: 6
-  m_QualitySettings:
-  - serializedVersion: 2
-=======
   m_CurrentQuality: 5
   m_QualitySettings:
   - serializedVersion: 3
->>>>>>> 9c7e8086 (menu added)
     name: Very Low
     pixelLightCount: 0
     shadows: 0
@@ -25,30 +19,20 @@ QualitySettings:
     shadowCascade4Split: {x: 0.06666667, y: 0.2, z: 0.46666667}
     shadowmaskMode: 0
     skinWeights: 1
-<<<<<<< HEAD
-    textureQuality: 1
-=======
     globalTextureMipmapLimit: 1
     textureMipmapLimitSettings: []
->>>>>>> 9c7e8086 (menu added)
     anisotropicTextures: 0
     antiAliasing: 0
     softParticles: 0
     softVegetation: 0
     realtimeReflectionProbes: 0
     billboardsFaceCameraPosition: 0
-<<<<<<< HEAD
-    vSyncCount: 0
-    lodBias: 0.3
-    maximumLODLevel: 0
-=======
     useLegacyDetailDistribution: 0
     vSyncCount: 0
     realtimeGICPUUsage: 25
     lodBias: 0.3
     maximumLODLevel: 0
     enableLODCrossFade: 1
->>>>>>> 9c7e8086 (menu added)
     streamingMipmapsActive: 0
     streamingMipmapsAddAllCameras: 1
     streamingMipmapsMemoryBudget: 512
@@ -61,15 +45,6 @@ QualitySettings:
     asyncUploadPersistentBuffer: 1
     resolutionScalingFixedDPIFactor: 1
     customRenderPipeline: {fileID: 0}
-<<<<<<< HEAD
-    excludedTargetPlatforms:
-    - Standalone
-    - Server
-    - Android
-    - iPhone
-    - WebGL
-  - serializedVersion: 2
-=======
     terrainQualityOverrides: 0
     terrainPixelError: 1
     terrainDetailDensityScale: 1
@@ -81,7 +56,6 @@ QualitySettings:
     terrainMaxTrees: 50
     excludedTargetPlatforms: []
   - serializedVersion: 3
->>>>>>> 9c7e8086 (menu added)
     name: Low
     pixelLightCount: 0
     shadows: 0
@@ -94,30 +68,20 @@ QualitySettings:
     shadowCascade4Split: {x: 0.06666667, y: 0.2, z: 0.46666667}
     shadowmaskMode: 0
     skinWeights: 2
-<<<<<<< HEAD
-    textureQuality: 0
-=======
     globalTextureMipmapLimit: 0
     textureMipmapLimitSettings: []
->>>>>>> 9c7e8086 (menu added)
     anisotropicTextures: 0
     antiAliasing: 0
     softParticles: 0
     softVegetation: 0
     realtimeReflectionProbes: 0
     billboardsFaceCameraPosition: 0
-<<<<<<< HEAD
-    vSyncCount: 0
-    lodBias: 0.4
-    maximumLODLevel: 0
-=======
     useLegacyDetailDistribution: 0
     vSyncCount: 0
     realtimeGICPUUsage: 25
     lodBias: 0.4
     maximumLODLevel: 0
     enableLODCrossFade: 1
->>>>>>> 9c7e8086 (menu added)
     streamingMipmapsActive: 0
     streamingMipmapsAddAllCameras: 1
     streamingMipmapsMemoryBudget: 512
@@ -130,15 +94,6 @@ QualitySettings:
     asyncUploadPersistentBuffer: 1
     resolutionScalingFixedDPIFactor: 1
     customRenderPipeline: {fileID: 0}
-<<<<<<< HEAD
-    excludedTargetPlatforms:
-    - Standalone
-    - Server
-    - Android
-    - iPhone
-    - WebGL
-  - serializedVersion: 2
-=======
     terrainQualityOverrides: 0
     terrainPixelError: 1
     terrainDetailDensityScale: 1
@@ -150,7 +105,6 @@ QualitySettings:
     terrainMaxTrees: 50
     excludedTargetPlatforms: []
   - serializedVersion: 3
->>>>>>> 9c7e8086 (menu added)
     name: Medium
     pixelLightCount: 1
     shadows: 1
@@ -163,30 +117,20 @@ QualitySettings:
     shadowCascade4Split: {x: 0.06666667, y: 0.2, z: 0.46666667}
     shadowmaskMode: 0
     skinWeights: 2
-<<<<<<< HEAD
-    textureQuality: 0
-=======
     globalTextureMipmapLimit: 0
     textureMipmapLimitSettings: []
->>>>>>> 9c7e8086 (menu added)
     anisotropicTextures: 1
     antiAliasing: 0
     softParticles: 0
     softVegetation: 0
     realtimeReflectionProbes: 0
     billboardsFaceCameraPosition: 0
-<<<<<<< HEAD
-    vSyncCount: 1
-    lodBias: 0.7
-    maximumLODLevel: 0
-=======
     useLegacyDetailDistribution: 0
     vSyncCount: 1
     realtimeGICPUUsage: 25
     lodBias: 0.7
     maximumLODLevel: 0
     enableLODCrossFade: 1
->>>>>>> 9c7e8086 (menu added)
     streamingMipmapsActive: 0
     streamingMipmapsAddAllCameras: 1
     streamingMipmapsMemoryBudget: 512
@@ -199,15 +143,6 @@ QualitySettings:
     asyncUploadPersistentBuffer: 1
     resolutionScalingFixedDPIFactor: 1
     customRenderPipeline: {fileID: 0}
-<<<<<<< HEAD
-    excludedTargetPlatforms:
-    - Standalone
-    - Server
-    - Android
-    - iPhone
-    - WebGL
-  - serializedVersion: 2
-=======
     terrainQualityOverrides: 0
     terrainPixelError: 1
     terrainDetailDensityScale: 1
@@ -219,7 +154,6 @@ QualitySettings:
     terrainMaxTrees: 50
     excludedTargetPlatforms: []
   - serializedVersion: 3
->>>>>>> 9c7e8086 (menu added)
     name: High
     pixelLightCount: 2
     shadows: 2
@@ -232,30 +166,20 @@ QualitySettings:
     shadowCascade4Split: {x: 0.06666667, y: 0.2, z: 0.46666667}
     shadowmaskMode: 1
     skinWeights: 2
-<<<<<<< HEAD
-    textureQuality: 0
-=======
     globalTextureMipmapLimit: 0
     textureMipmapLimitSettings: []
->>>>>>> 9c7e8086 (menu added)
     anisotropicTextures: 1
     antiAliasing: 0
     softParticles: 0
     softVegetation: 1
     realtimeReflectionProbes: 1
     billboardsFaceCameraPosition: 1
-<<<<<<< HEAD
-    vSyncCount: 1
-    lodBias: 1
-    maximumLODLevel: 0
-=======
     useLegacyDetailDistribution: 0
     vSyncCount: 1
     realtimeGICPUUsage: 50
     lodBias: 1
     maximumLODLevel: 0
     enableLODCrossFade: 1
->>>>>>> 9c7e8086 (menu added)
     streamingMipmapsActive: 0
     streamingMipmapsAddAllCameras: 1
     streamingMipmapsMemoryBudget: 512
@@ -268,15 +192,6 @@ QualitySettings:
     asyncUploadPersistentBuffer: 1
     resolutionScalingFixedDPIFactor: 1
     customRenderPipeline: {fileID: 0}
-<<<<<<< HEAD
-    excludedTargetPlatforms:
-    - Standalone
-    - Server
-    - Android
-    - iPhone
-    - WebGL
-  - serializedVersion: 2
-=======
     terrainQualityOverrides: 0
     terrainPixelError: 1
     terrainDetailDensityScale: 1
@@ -288,7 +203,6 @@ QualitySettings:
     terrainMaxTrees: 50
     excludedTargetPlatforms: []
   - serializedVersion: 3
->>>>>>> 9c7e8086 (menu added)
     name: Very High
     pixelLightCount: 3
     shadows: 2
@@ -301,30 +215,20 @@ QualitySettings:
     shadowCascade4Split: {x: 0.06666667, y: 0.2, z: 0.46666667}
     shadowmaskMode: 1
     skinWeights: 4
-<<<<<<< HEAD
-    textureQuality: 0
-=======
     globalTextureMipmapLimit: 0
     textureMipmapLimitSettings: []
->>>>>>> 9c7e8086 (menu added)
     anisotropicTextures: 2
     antiAliasing: 2
     softParticles: 1
     softVegetation: 1
     realtimeReflectionProbes: 1
     billboardsFaceCameraPosition: 1
-<<<<<<< HEAD
-    vSyncCount: 1
-    lodBias: 1.5
-    maximumLODLevel: 0
-=======
     useLegacyDetailDistribution: 0
     vSyncCount: 1
     realtimeGICPUUsage: 50
     lodBias: 1.5
     maximumLODLevel: 0
     enableLODCrossFade: 1
->>>>>>> 9c7e8086 (menu added)
     streamingMipmapsActive: 0
     streamingMipmapsAddAllCameras: 1
     streamingMipmapsMemoryBudget: 512
@@ -337,15 +241,6 @@ QualitySettings:
     asyncUploadPersistentBuffer: 1
     resolutionScalingFixedDPIFactor: 1
     customRenderPipeline: {fileID: 0}
-<<<<<<< HEAD
-    excludedTargetPlatforms:
-    - Standalone
-    - Server
-    - Android
-    - iPhone
-    - WebGL
-  - serializedVersion: 2
-=======
     terrainQualityOverrides: 0
     terrainPixelError: 1
     terrainDetailDensityScale: 1
@@ -357,7 +252,6 @@ QualitySettings:
     terrainMaxTrees: 50
     excludedTargetPlatforms: []
   - serializedVersion: 3
->>>>>>> 9c7e8086 (menu added)
     name: Ultra
     pixelLightCount: 4
     shadows: 2
@@ -369,32 +263,21 @@ QualitySettings:
     shadowCascade2Split: 0.33333334
     shadowCascade4Split: {x: 0.06666667, y: 0.2, z: 0.46666667}
     shadowmaskMode: 1
-<<<<<<< HEAD
-    skinWeights: 4
-    textureQuality: 0
-=======
     skinWeights: 255
     globalTextureMipmapLimit: 0
     textureMipmapLimitSettings: []
->>>>>>> 9c7e8086 (menu added)
     anisotropicTextures: 2
     antiAliasing: 2
     softParticles: 1
     softVegetation: 1
     realtimeReflectionProbes: 1
     billboardsFaceCameraPosition: 1
-<<<<<<< HEAD
-    vSyncCount: 1
-    lodBias: 2
-    maximumLODLevel: 0
-=======
     useLegacyDetailDistribution: 0
     vSyncCount: 1
     realtimeGICPUUsage: 100
     lodBias: 2
     maximumLODLevel: 0
     enableLODCrossFade: 1
->>>>>>> 9c7e8086 (menu added)
     streamingMipmapsActive: 0
     streamingMipmapsAddAllCameras: 1
     streamingMipmapsMemoryBudget: 512
@@ -407,60 +290,6 @@ QualitySettings:
     asyncUploadPersistentBuffer: 1
     resolutionScalingFixedDPIFactor: 1
     customRenderPipeline: {fileID: 0}
-<<<<<<< HEAD
-    excludedTargetPlatforms:
-    - Server
-    - Android
-    - iPhone
-    - WebGL
-    - Standalone
-  - serializedVersion: 2
-    name: WebGl
-    pixelLightCount: 1
-    shadows: 2
-    shadowResolution: 1
-    shadowProjection: 1
-    shadowCascades: 1
-    shadowDistance: 100
-    shadowNearPlaneOffset: 3
-    shadowCascade2Split: 0.33333334
-    shadowCascade4Split: {x: 0.06666667, y: 0.2, z: 0.46666667}
-    shadowmaskMode: 1
-    skinWeights: 2
-    textureQuality: 0
-    anisotropicTextures: 1
-    antiAliasing: 0
-    softParticles: 0
-    softVegetation: 1
-    realtimeReflectionProbes: 1
-    billboardsFaceCameraPosition: 1
-    vSyncCount: 0
-    lodBias: 0.7
-    maximumLODLevel: 0
-    streamingMipmapsActive: 0
-    streamingMipmapsAddAllCameras: 1
-    streamingMipmapsMemoryBudget: 512
-    streamingMipmapsRenderersPerFrame: 512
-    streamingMipmapsMaxLevelReduction: 2
-    streamingMipmapsMaxFileIORequests: 1024
-    particleRaycastBudget: 64
-    asyncUploadTimeSlice: 2
-    asyncUploadBufferSize: 16
-    asyncUploadPersistentBuffer: 1
-    resolutionScalingFixedDPIFactor: 1
-    customRenderPipeline: {fileID: 0}
-    excludedTargetPlatforms: []
-  m_PerPlatformDefaultQuality:
-    Android: 2
-    Lumin: 5
-    Nintendo 3DS: 5
-    Nintendo Switch: 5
-    PS4: 5
-    PSP2: 2
-    Server: 0
-    Stadia: 5
-    Standalone: 5
-=======
     terrainQualityOverrides: 0
     terrainPixelError: 1
     terrainDetailDensityScale: 1
@@ -486,7 +315,6 @@ QualitySettings:
     Stadia: 5
     Standalone: 5
     VisionOS: 5
->>>>>>> 9c7e8086 (menu added)
     WebGL: 3
     Windows Store Apps: 5
     XboxOne: 5
