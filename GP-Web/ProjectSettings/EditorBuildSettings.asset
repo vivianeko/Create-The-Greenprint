@@ -6,6 +6,15 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/_GP/Scenes/Main Menu.unity
+    guid: 744e27bec11fb7f41afe091f6520c835
+  - enabled: 1
     path: Assets/_GP/Scenes/GP-Web.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/_GP/Scenes/Machakos.unity
+    guid: 332ff72daba43864d8cc117389bc89d9
+  - enabled: 1
+    path: Assets/_GP/Scenes/LittleBigHorn.unity
+    guid: c5c3abb168bc1324fae2a81ceb853203
   m_configObjects: {}
